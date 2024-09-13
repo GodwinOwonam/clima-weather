@@ -3,7 +3,7 @@ import 'package:flutter/foundation.dart';
 import '../services/location.dart';
 import '../services/networking.dart';
 
-const apiKey = '561136bad948495a8ad191047241109';
+const apiKey = '<your app key>';
 
 class WeatherModel {
   Future<dynamic> getCityWeather(String city) async {
