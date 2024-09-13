@@ -1,6 +1,6 @@
 # clima
 
-A new Flutter project.
+A weather app based on the #flutterappbrewery Flutter course taught by Angela Yu on Udemy
 
 ## Getting Started
 
